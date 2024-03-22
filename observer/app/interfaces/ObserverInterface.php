@@ -6,5 +6,4 @@ namespace app\interfaces;
 
 interface ObserverInterface
 {
-    
 }
