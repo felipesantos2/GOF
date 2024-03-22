@@ -1,0 +1,16 @@
+{
+    "name": "felipe/observer-pattern",
+    "description": "design patterns",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Santos",
+            "email": "santospinheiro627@gmail.com"
+        }
+    ],
+    "require": {}
+}
